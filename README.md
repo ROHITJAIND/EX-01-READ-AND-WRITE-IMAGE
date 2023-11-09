@@ -1,7 +1,7 @@
 # EX-1 READ AND WRITE AN IMAGE
 ### AIM:
-To write a python program using OpenCV to do the following image manipulations.
-### Software Required:
+To write a python program using OpenCV to do the following image manipulations.&emsp;&emsp;&emsp;&emsp;**DATE:** 16.08.2023
+## Software Required:
 - Anaconda - Python 3.7
 ### Algorithm:
 - Step1: Choose an image and save it as a filename.jpg
